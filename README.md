@@ -25,9 +25,8 @@ Throughout the development of Noto, I encountered challenges that pushed me to e
 
 ## Demo Video
 
-[![Noto App Demo](https://youtu.be/dykxyVg_aWw)
+[![Noto App Demo](https://img.youtube.com/vi/dykxyVg_aWw/0.jpg)](https://www.youtube.com/watch?v=dykxyVg_aWw)
 
-**Note:** Replace `VIDEO_ID` in the URL above with the actual ID of your YouTube demo video.
 
 ## Conclusion
 
