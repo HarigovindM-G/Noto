@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Jap{
+    font-weight: bolder;
+    font-size:8rem;
+    color: #C6B0BC;
+}
+
+.Jap2{
+    font-weight: bolder;
+    font-size:8rem;
+    color: white;
+}
+
+.Jap_trans{
+    font-weight:bold;
+    font-size: 4rem;
+    color: #C6B0BC;
+    /* transform: translateX(8rem); */
+}
+
